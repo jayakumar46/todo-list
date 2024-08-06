@@ -1,0 +1,14 @@
+[
+  { "id": "1", "name": "jk", "age": "20", "city": "trichy" },
+  { "id": "2", "name": "madhan", "age": "16", "city": "trichy" },
+  { "id": "3", "name": "balaji", "age": "20", "city": "trichy" },
+  { "id": "5", "name": "sona", "age": "23", "city": "chennai" },
+  { "id": "6", "name": "shalini", "age": "30", "city": "coimbatore" },
+  { "id": "7", "name": "vijay", "age": "17", "city": "lalgudi" },
+  { "id": "9", "name": "joyal", "age": "20", "city": "salam" },
+  { "id": "10", "name": "priya", "age": "20", "city": "chennai" },
+  { "id": "7", "name": "vijay", "age": "17", "city": "ilalgudi" },
+  { "id": 1722572278982, "name": "ram", "age": "22", "city": "salem" },
+  { "id": "1", "name": "jk", "age": "21", "city": "trichy" },
+  { "id": 1722622816088, "name": "kunal", "age": "25", "city": "trichy" }
+]
